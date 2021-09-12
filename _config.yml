@@ -109,3 +109,4 @@ deploy:
   type: git
   repo: https://github.com/zhoumei/hexo.git
   branch: main
+  token: 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
